@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#F1F1F1;
+}
+h1{
+	text-align :center;
+	color:#3b99e0;
+}
+.head{
+	text-align:center;
+	font-size:12px;
+	color:#666666;
+	padding-left:25vw;
+	padding-right:25vw;
+}
+.main{
+	display:flex;
+	justify-content:space-between;
+	border:1px solid black;
+	margin:30px;
+	
+}
+.summary{
+	background-color:#f7fbff;
+	border-top:2px solid #5ea4f3;
+	width:30vw;
+	align-item:center;
+	text-align:center;
+	padding:10px;
+}
+img{
+	width:100px;
+}
+.product{
+	padding-top:20px;
+	
+}
