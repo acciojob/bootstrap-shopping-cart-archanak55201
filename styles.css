@@ -32,7 +32,11 @@ img{
 	width:100px;
 }
 .product{
-	padding-top:20px;
+	
+	display:flex;
+	justify-content:space-between;
+	border:1px solid black;
+	margin:30px;
 	
 }
 .summary-item{
